@@ -34,8 +34,8 @@ approval_description = ("""
 \033[0mplease connect from Facebook or Telegram.
 
 
-\033[0mTelegram acc:  @wt4p2p
-\033[0mTelegram page: https://t.me/wt4p2
+\033[0mTelegram acc:  @RAT_or
+\033[0mTelegram page: https://t.me/zttermux778
 """)
 
 print("Loading...")
@@ -165,10 +165,10 @@ G = '\x1b[1;95m'
 P = '\033[1;37m'
 
 dev_info = ("""
-\033[1;97mFacebook acc:  \033[1;22mhttps://www.facebook.com/sknaing29
-\033[1;97mFacebook page: \033[1;22mhttps://www.facebook.com/MyanService
-\033[1;97mTelegram acc:  \033[1;22mhttps://t.me/YeMoeThaung
-\033[1;97mTelegram page: \033[1;22mhttps://t.me/MyanService
+\033[1;97mFacebook acc:  \033[1;22mhttps:https://www.facebook.com/profile.php?id=61557318466492&mibextid=ZbWKwL
+\033[1;97mFacebook page: \033[1;22mhttps://www.facebook.com/profile.php?id=61557318466492&mibextid=ZbWKwL
+\033[1;97mTelegram acc:  \033[1;22mhttps://t.me/zttermux778
+\033[1;97mTelegram page: \033[1;22mhttps://t.me/zttermux778
 """)
 
 def main():
@@ -1039,10 +1039,10 @@ logo= ("""
 1033[38;5;184m4(__) (____)(__\_)\_)(_/\____/(_/\_)   \__/ (__)(__)     (__) \__/  \__/ \____/  \_)(_/(__/ \_/\_/\_)__)\_)(_/\_/\_/(__\_)
 \033[1;220m
 \033[1;32m┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-\033[38;5;45m┃\033[1;32m [\033[1;91m❃\033[1;32m] \033[1;97mOWNER           \033[38;5;226m ━━━━━    \033[1;32m Oakarmin mg          \033[38;5;45m┃
-\033[38;5;43m┃\033[1;32m [\033[1;91m❃\033[1;32m] \033[1;97mTELEGRAM        \033[38;5;226m ━━━━━   \033[1;32m @wt4p2p  wtz          \033[38;5;43m┃
+\033[38;5;45m┃\033[1;32m [\033[1;91m❃\033[1;32m] \033[1;97mOWNER           \033[38;5;226m ━━━━━    \033[1;32m TERMUX VIP TOOL MYANMAR       \033[38;5;45m┃
+\033[38;5;43m┃\033[1;32m [\033[1;91m❃\033[1;32m] \033[1;97mTELEGRAM        \033[38;5;226m ━━━━━   \033[1;32m  @RAT_or      \033[38;5;43m┃
 \033[38;5;43m┃\033[1;32m [\033[1;91m❃\033[1;32m] \033[1;97mMETHOD          \033[38;5;226m ━━━━━   \033[1;32m   API METHOD          \033[38;5;43m┃
-\033[38;5;44m┃\033[1;32m [\033[1;91m❃\033[1;32m] \033[1;97mTOOL STATUS     \033[38;5;226m ━━━━━    \033[1;32mPAID VERSION          \033[38;5;44m┃
+\033[38;5;44m┃\033[1;32m [\033[1;91m❃\033[1;32m] \033[1;97mTOOL STATUS     \033[38;5;226m ━━━━━    \033[1;32m PAID VERSION          \033[38;5;44m┃
 \033[38;5;42m┃\033[1;32m [\033[1;91m❃\033[1;32m] \033[1;97mTOOL VERSION    \033[38;5;226m ━━━━━     \033[1;32m      1.0.0          \033[38;5;42m┃
 \033[1;32m┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛""")
 def linex():
